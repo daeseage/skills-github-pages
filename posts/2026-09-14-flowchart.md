@@ -3,6 +3,7 @@ title: "flowchart"
 date: 2026-09-14
 ---
 
+```mermaid
 flowchart LR
     All["`**SnoCo DSA Files**`"] --> Steering["`**Steering**`"]
     Steering --> C[Financial]
@@ -38,3 +39,4 @@ flowchart LR
     	- Endorsement docs
     	- Candidate forum docs
     	- Committee roles/membership`"]
+```
